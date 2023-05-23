@@ -1,2 +1,2 @@
 # SimpleDB
-simpleDB小型数据库实现
+NKU Database System project
