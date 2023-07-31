@@ -1,0 +1,13 @@
+.classpath
+.project
+bin/
+dist/
+output/
+out/
+log
+
+.idea
+*.iml
+/some_data_file.txt.txt
+/some_data.dat
+/some_data_file.txt
